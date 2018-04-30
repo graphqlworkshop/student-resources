@@ -16,10 +16,17 @@ GraphQL Workshop Useful Links and Resources
 * [Interfaces - Launchpad](https://launchpad.graphql.com/j8r375km3p)
 * [SWAPI - Launchpad](http://bit.ly/swapi-launchpad)
 
+### Database Integration
+* [Mongo Installation for Mac](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
+* [Mongo Installation for PC](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
+* [mLab](https://mlab.com/)
+
+## Day 2
+
 ### Client Examples
 * [Fetch Sample](https://codesandbox.io/s/n3jro0o4n0)
 * [graphql-request](https://codesandbox.io/s/4qzq5z2vz0)
-* [Lab Start]()
+* [Lab Start](https://codesandbox.io/s/kmmz8om2xv)
 * [Lab Finished](https://codesandbox.io/s/q8l7wp6m0w)
 
 ### Apollo Client Examples
@@ -46,7 +53,6 @@ GraphQL Workshop Useful Links and Resources
 
 * [Apollo GraphQL](https://www.apollographql.com/)
 * [React Apollo](https://github.com/apollographql/react-apollo)
-* [Schema Stitching](https://www.apollographql.com/docs/graphql-tools/schema-stitching.html)
 
 ### Relay
 
