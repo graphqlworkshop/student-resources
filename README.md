@@ -13,6 +13,7 @@ GraphQL Workshop
 * [City to City Through Types - Launchpad](https://launchpad.graphql.com/lk3qk3zq7q)
 * [Union Types - Launchpad](https://launchpad.graphql.com/r94qxj5q4n)
 * [Interfaces - Launchpad](https://launchpad.graphql.com/j8r375km3p)
+* [SWAPI - Launchpad](http://bit.ly/swapi-launchpad)
 
 ### Client Examples
 * [Fetch Sample](https://codesandbox.io/s/n3jro0o4n0)
