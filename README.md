@@ -3,11 +3,24 @@ GraphQL Workshop
 
 ## Course Resources
 * [Slides](https://docs.google.com/presentation/d/1PyIctm0YPtaBleDxNkNXTEBvHSK5WNjMwzJaif2nmL4/edit?usp=sharing)
+
+### GraphiQL, Playground Examples
 * [Snowtooth Playground](http://snowtooth.herokuapp.com/playground)
-* [Through Types Launchpad](https://launchpad.graphql.com/lk3qk3zq7q)
-* [Union Types Launchpad](https://launchpad.graphql.com/r94qxj5q4n)
-* [Interfaces Launchpad](https://launchpad.graphql.com/j8r375km3p)
-* [mLab](https://www.mlab.com/)
+* [Github GraphQL Explorer](https://developer.github.com/v4/explorer/)
+* [SWAPI: Star Wars API](http://graphql.org/swapi-graphql/)
+
+### Launchpad Examples
+* [City to City Through Types - Launchpad](https://launchpad.graphql.com/lk3qk3zq7q)
+* [Union Types - Launchpad](https://launchpad.graphql.com/r94qxj5q4n)
+* [Interfaces - Launchpad](https://launchpad.graphql.com/j8r375km3p)
+
+### Client Examples
+* [Fetch Sample](https://codesandbox.io/s/n3jro0o4n0)
+* [graphql-request](https://codesandbox.io/s/k91312kxyv)
+* [Observable Intro](https://codesandbox.io/s/176q4zpl4)
+* [Observable + Link](https://codesandbox.io/s/ql5xqkojyj)
+* [HTTP Link](https://codesandbox.io/s/koj24j5l07)
+* [Concatenating Links](https://codesandbox.io/s/ql4jlz54yq)
 
 ## Related Links
 
@@ -20,8 +33,6 @@ GraphQL Workshop
 ### GraphQL
 
 * [GraphQL Docs](http://graphql.org/)
-* [Github GraphQL Explorer](https://developer.github.com/v4/explorer/)
-* [SWAPI: Star Wars API](http://graphql.org/swapi-graphql/?)
 * [How To GraphQL](https://www.howtographql.com/)
 * [Schema Language Cheat Sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
 
