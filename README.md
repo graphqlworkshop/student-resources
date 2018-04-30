@@ -1,15 +1,16 @@
-GraphQL Workshop
+GraphQL Workshop Useful Links and Resources
 ==========
 
-## Course Resources
 * [Slides](https://docs.google.com/presentation/d/1PyIctm0YPtaBleDxNkNXTEBvHSK5WNjMwzJaif2nmL4/edit?usp=sharing)
 
-### GraphiQL, Playground Examples
+## Day 1
+
+### Query Language
 * [Snowtooth Playground](http://snowtooth.herokuapp.com/playground)
 * [Github GraphQL Explorer](https://developer.github.com/v4/explorer/)
 * [SWAPI: Star Wars API](http://graphql.org/swapi-graphql/)
 
-### Launchpad Examples
+### Designing A Schema
 * [City to City Through Types - Launchpad](https://launchpad.graphql.com/lk3qk3zq7q)
 * [Union Types - Launchpad](https://launchpad.graphql.com/r94qxj5q4n)
 * [Interfaces - Launchpad](https://launchpad.graphql.com/j8r375km3p)
@@ -18,12 +19,16 @@ GraphQL Workshop
 ### Client Examples
 * [Fetch Sample](https://codesandbox.io/s/n3jro0o4n0)
 * [graphql-request](https://codesandbox.io/s/4qzq5z2vz0)
+* [Lab Start]()
+* [Lab Finished](https://codesandbox.io/s/q8l7wp6m0w)
+
+### Apollo Client Examples
 * [Observable Intro](https://codesandbox.io/s/176q4zpl4)
 * [Observable + Link](https://codesandbox.io/s/ql5xqkojyj)
 * [HTTP Link](https://codesandbox.io/s/koj24j5l07)
 * [Concatenating Links](https://codesandbox.io/s/ql4jlz54yq)
 
-## Related Links
+## GraphQL Articles & Documentation
 
 ### Graph Theory
 
