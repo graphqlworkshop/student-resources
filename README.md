@@ -17,7 +17,7 @@ GraphQL Workshop
 
 ### Client Examples
 * [Fetch Sample](https://codesandbox.io/s/n3jro0o4n0)
-* [graphql-request](https://codesandbox.io/s/k91312kxyv)
+* [graphql-request](https://codesandbox.io/s/4qzq5z2vz0)
 * [Observable Intro](https://codesandbox.io/s/176q4zpl4)
 * [Observable + Link](https://codesandbox.io/s/ql5xqkojyj)
 * [HTTP Link](https://codesandbox.io/s/koj24j5l07)
