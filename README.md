@@ -29,11 +29,15 @@ GraphQL Workshop Links and Resources
 * [Lab Start](https://codesandbox.io/s/kmmz8om2xv)
 * [Lab Finished](https://codesandbox.io/s/q8l7wp6m0w)
 
-### Apollo Client Examples
+### Apollo Link Examples
 * [Observable Intro](https://codesandbox.io/s/176q4zpl4)
 * [Observable + Link](https://codesandbox.io/s/ql5xqkojyj)
 * [HTTP Link](https://codesandbox.io/s/koj24j5l07)
 * [Concatenating Links](https://codesandbox.io/s/ql4jlz54yq)
+
+### Apollo Client Examples
+* [InMemoryCache](https://codesandbox.io/s/3q245om1q6)
+
 
 ## GraphQL Articles & Documentation
 
