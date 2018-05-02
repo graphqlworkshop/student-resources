@@ -38,6 +38,7 @@ GraphQL Workshop Links and Resources
 ### Apollo Client Examples
 * [InMemoryCache](https://codesandbox.io/s/3q245om1q6)
 * [Sending Client Queries](https://codesandbox.io/s/4xnkxmnw7w)
+* [writeQuery](https://codesandbox.io/s/8z1no750r2)
 
 ## GraphQL Articles & Documentation
 
