@@ -26,7 +26,15 @@ GraphQL Workshop Links and Resources
 * [mLab](https://mlab.com/)
 * [Local Instructions for Mongo & mLab](https://gist.github.com/eveporcello/98f9e37a65f05b9d0866137d80ed9653)
 * Typical Mongo Service Route: `mongodb://localhost:27017/photo-share`
-* Typical mLab Service Route: `mongodb://test:password@ds215089.mlab.com:15089/photo-share`
+* Typical mLab Service Route: `mongodb://test:password@ds215089.mlab.com:15089/photo-share` (yours will differ slightly, find on mLab)
+
+#### .env file
+
+```
+DB_HOST=mongodb://localhost:27017/photo-share or `mongodb://test:password@ds215089.mlab.com:15089/photo-share`
+CLIENT_ID=<GITHUB_CLIENT_ID>
+CLIENT_SECRET=<GITHUB_CLIENT_SECRET>
+```
 
 ## Day 2
 
