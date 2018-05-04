@@ -16,10 +16,16 @@ GraphQL Workshop Links and Resources
 * [Interfaces - Launchpad](https://launchpad.graphql.com/j8r375km3p)
 * [SWAPI - Launchpad](http://bit.ly/swapi-launchpad)
 
+### Building an API
+* [Photos JSON File](https://github.com/graphqlworkshop/photo-share-api/blob/f98c31580f19db9814c04899945942b155e7b619/data/sample-photos.json)
+* [Photos JSON File](https://github.com/graphqlworkshop/photo-share-api/blob/f98c31580f19db9814c04899945942b155e7b619/data/sample-users.json)
+
 ### Database Integration
 * [Mongo Installation for Mac](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
 * [Mongo Installation for PC](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
 * [mLab](https://mlab.com/)
+* Typical Mongo Service Route: `mongodb://localhost:27017/photo-share`
+* Typical mLab Service Route: `mongodb://test:password@ds215089.mlab.com:15089/photo-share`
 
 ## Day 2
 
