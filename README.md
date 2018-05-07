@@ -18,7 +18,7 @@ GraphQL Workshop Links and Resources
 
 ### Building an API
 * [Photos JSON File](https://github.com/graphqlworkshop/photo-share-api/blob/f98c31580f19db9814c04899945942b155e7b619/data/sample-photos.json)
-* [Photos JSON File](https://github.com/graphqlworkshop/photo-share-api/blob/f98c31580f19db9814c04899945942b155e7b619/data/sample-users.json)
+* [Users JSON File](https://github.com/graphqlworkshop/photo-share-api/blob/f98c31580f19db9814c04899945942b155e7b619/data/sample-users.json)
 
 ### Database Integration
 * [Mongo Installation for Mac](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
