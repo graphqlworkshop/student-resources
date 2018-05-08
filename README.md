@@ -62,6 +62,10 @@ CLIENT_SECRET=<GITHUB_CLIENT_SECRET>
 * [Sending Client Queries](https://codesandbox.io/s/4xnkxmnw7w)
 * [writeQuery](https://codesandbox.io/s/8z1no750r2)
 
+
+### GitHub Auth
+window.location = `https://github.com/login/oauth/authorize?client_id=${clientID}&scope=user`
+
 ## GraphQL Articles & Documentation
 
 ### Graph Theory
