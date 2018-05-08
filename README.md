@@ -39,6 +39,13 @@ CLIENT_SECRET=<GITHUB_CLIENT_SECRET>
 ## Day 2
 
 ### Client Examples
+* curl Request
+  ```
+  curl -X POST \
+       -H "Content-Type: application/json" \
+       --data '{ "query": "{allCities{name}}" }' \
+       https://w5zrqxn0nz.lp.gql.zone/graphql
+  ```
 * [Fetch Sample](https://codesandbox.io/s/n3jro0o4n0)
 * [graphql-request](https://codesandbox.io/s/4qzq5z2vz0)
 * [Lab Start](https://codesandbox.io/s/kmmz8om2xv)
