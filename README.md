@@ -89,3 +89,8 @@ window.location = https://github.com/login/oauth/authorize?client_id=${clientID}
 
 * [Relay Modern](https://facebook.github.io/relay/)
 * [Relay Tutorial](https://facebook.github.io/relay/docs/tutorial.html)
+
+<hr />
+
+## Evaluation Links
+* [Mid-class Evaluation](https://docs.google.com/forms/d/e/1FAIpQLScaX3QVX8fLtMDYp7sMaVGh1vSO-7tHPuKrzz_daGk2Z60WlQ/viewform?usp=sf_link)
