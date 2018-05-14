@@ -31,7 +31,7 @@ GraphQL Workshop Links and Resources
 #### .env file
 
 ```
-DB_HOST=mongodb://localhost:27017/photo-share or `mongodb://test:password@ds215089.mlab.com:15089/photo-share`
+DB_HOST=mongodb://*** or `mongodb://******
 CLIENT_ID=<GITHUB_CLIENT_ID>
 CLIENT_SECRET=<GITHUB_CLIENT_SECRET>
 ```
@@ -89,8 +89,3 @@ window.location = https://github.com/login/oauth/authorize?client_id=${clientID}
 
 * [Relay Modern](https://facebook.github.io/relay/)
 * [Relay Tutorial](https://facebook.github.io/relay/docs/tutorial.html)
-
-<hr />
-
-## Evaluation Links
-* [Mid-class Evaluation](https://docs.google.com/forms/d/e/1FAIpQLScaX3QVX8fLtMDYp7sMaVGh1vSO-7tHPuKrzz_daGk2Z60WlQ/viewform?usp=sf_link)
