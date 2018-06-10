@@ -66,6 +66,10 @@ CLIENT_SECRET=<GITHUB_CLIENT_SECRET>
 ### GitHub Auth
 window.location = https://github.com/login/oauth/authorize?client_id=${clientID}&scope=user
 
+### Evaluation
+* [Final Day Eval](http://bit.ly/graphql-fluent)
+
+
 ## GraphQL Articles & Documentation
 
 ### Graph Theory
