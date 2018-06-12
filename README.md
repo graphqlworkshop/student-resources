@@ -40,12 +40,13 @@ CLIENT_SECRET=<GITHUB_CLIENT_SECRET>
 
 ### Client Examples
 * curl Request
-  ```
+```
 curl -X POST \
      -H "Content-Type: application/json" \
      --data '{ "query": "{allPhotos{name}}" }' \
      http://localhost:4000/graphql
-  ```
+ ```
+ 
 * [Fetch Sample](https://codesandbox.io/s/wy9mq00q9w)
 * [graphql-request](https://codesandbox.io/s/4qzq5z2vz0)
 * [Lab Start](https://codesandbox.io/s/kmmz8om2xv)
