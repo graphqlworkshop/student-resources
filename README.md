@@ -53,9 +53,9 @@ curl -X POST \
 * [Lab Finished](https://codesandbox.io/s/q8l7wp6m0w)
 
 ### Apollo Client Examples
-* [InMemoryCache](https://codesandbox.io/s/3q245om1q6)
+* [Simple Apollo Setup](https://codesandbox.io/s/3q245om1q6)
 * [Sending Client Queries](https://codesandbox.io/s/4xnkxmnw7w)
-* [writeQuery](https://codesandbox.io/s/8z1no750r2)
+* [writeQuery](https://codesandbox.io/s/oo3z008kzy)
 
 ### Apollo Link Examples
 * [Observable Intro](https://codesandbox.io/s/176q4zpl4)
