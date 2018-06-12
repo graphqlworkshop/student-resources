@@ -41,26 +41,26 @@ CLIENT_SECRET=<GITHUB_CLIENT_SECRET>
 ### Client Examples
 * curl Request
   ```
-  curl -X POST \
-       -H "Content-Type: application/json" \
-       --data '{ "query": "{allCities{name}}" }' \
-       https://w5zrqxn0nz.lp.gql.zone/graphql
+curl -X POST \
+     -H "Content-Type: application/json" \
+     --data '{ "query": "{allPhotos{name}}" }' \
+     http://localhost:4000/graphql
   ```
 * [Fetch Sample](https://codesandbox.io/s/wy9mq00q9w)
 * [graphql-request](https://codesandbox.io/s/4qzq5z2vz0)
 * [Lab Start](https://codesandbox.io/s/kmmz8om2xv)
 * [Lab Finished](https://codesandbox.io/s/q8l7wp6m0w)
 
+### Apollo Client Examples
+* [InMemoryCache](https://codesandbox.io/s/3q245om1q6)
+* [Sending Client Queries](https://codesandbox.io/s/4xnkxmnw7w)
+* [writeQuery](https://codesandbox.io/s/8z1no750r2)
+
 ### Apollo Link Examples
 * [Observable Intro](https://codesandbox.io/s/176q4zpl4)
 * [Observable + Link](https://codesandbox.io/s/ql5xqkojyj)
 * [HTTP Link](https://codesandbox.io/s/koj24j5l07)
 * [Concatenating Links](https://codesandbox.io/s/ql4jlz54yq)
-
-### Apollo Client Examples
-* [InMemoryCache](https://codesandbox.io/s/3q245om1q6)
-* [Sending Client Queries](https://codesandbox.io/s/4xnkxmnw7w)
-* [writeQuery](https://codesandbox.io/s/8z1no750r2)
 
 
 ### GitHub Auth
