@@ -46,7 +46,7 @@ CLIENT_SECRET=<GITHUB_CLIENT_SECRET>
        --data '{ "query": "{allCities{name}}" }' \
        https://w5zrqxn0nz.lp.gql.zone/graphql
   ```
-* [Fetch Sample](https://codesandbox.io/s/n3jro0o4n0)
+* [Fetch Sample](https://codesandbox.io/s/wy9mq00q9w)
 * [graphql-request](https://codesandbox.io/s/4qzq5z2vz0)
 * [Lab Start](https://codesandbox.io/s/kmmz8om2xv)
 * [Lab Finished](https://codesandbox.io/s/q8l7wp6m0w)
