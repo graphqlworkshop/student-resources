@@ -57,6 +57,14 @@ curl -X POST \
 * [Sending Client Queries](https://codesandbox.io/s/4xnkxmnw7w)
 * [writeQuery](https://codesandbox.io/s/oo3z008kzy)
 
+### Activity Endpoints
+| Example             | endpoint                               | test                                     |
+|---------------------|----------------------------------------|------------------------------------------|
+| City Sample         | https://lk3qk3zq7q.lp.gql.zone/graphql | https://launchpad.graphql.com/lk3qk3zq7q |
+| Study Group (union) | https://r94qxj5q4n.lp.gql.zone/graphql | https://launchpad.graphql.com/r94qxj5q4n |
+| Alex's Ski Days     | https://api.graph.cool/simple/v1/cja33bgdf6g8i0109u1k4913c | https://www.graphqlbin.com |
+
+
 ### Apollo Link Examples
 * [Observable Intro](https://codesandbox.io/s/176q4zpl4)
 * [Observable + Link](https://codesandbox.io/s/ql5xqkojyj)
