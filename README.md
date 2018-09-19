@@ -46,7 +46,7 @@ curl -X POST \
      --data '{ "query": "{allPhotos{name}}" }' \
      http://localhost:4000/graphql
  ```
- 
+
 * [Fetch Sample](https://codesandbox.io/s/wy9mq00q9w)
 * [graphql-request](https://codesandbox.io/s/4qzq5z2vz0)
 * [Lab Start](https://codesandbox.io/s/kmmz8om2xv)
@@ -73,7 +73,9 @@ curl -X POST \
 
 
 ### GitHub Auth
-window.location = https://github.com/login/oauth/authorize?client_id=${clientID}&scope=user
+```
+window.location = `https://github.com/login/oauth/authorize?client_id=${clientID}&scope=user`
+```
 
 ### Evaluation
 * [Final Day Eval](https://docs.google.com/forms/d/e/1FAIpQLSf6Nv5lFAfiEDyUocUn7QnFdeyM7UbCvFx2jcpcM-Yz5sHiLA/viewform?usp=sf_link)
