@@ -73,7 +73,9 @@ curl -X POST \
 
 
 ### GitHub Auth
-window.location = https://github.com/login/oauth/authorize?client_id=${clientID}&scope=user
+```
+window.location = `https://github.com/login/oauth/authorize?client_id=${clientID}&scope=user`
+```
 
 ### Evaluation
 * [Final Day Eval](https://docs.google.com/forms/d/e/1FAIpQLSf6Nv5lFAfiEDyUocUn7QnFdeyM7UbCvFx2jcpcM-Yz5sHiLA/viewform?usp=sf_link)
