@@ -94,6 +94,7 @@ window.location = `https://github.com/login/oauth/authorize?client_id=${clientID
 * [GraphQL Docs](http://graphql.org/)
 * [How To GraphQL](https://www.howtographql.com/)
 * [Schema Language Cheat Sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
+* [Apollo Schema Design Guide](https://www.apollographql.com/docs/guides/schema-design.html)
 
 ### Apollo
 
