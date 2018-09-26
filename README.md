@@ -30,7 +30,7 @@ GraphQL Workshop Links and Resources
 
 #### .env file
 
-```
+```sh
 DB_HOST=mongodb://*** or `mongodb://******
 CLIENT_ID=<GITHUB_CLIENT_ID>
 CLIENT_SECRET=<GITHUB_CLIENT_SECRET>
@@ -40,13 +40,13 @@ CLIENT_SECRET=<GITHUB_CLIENT_SECRET>
 
 ### Client Examples
 * curl Request
-```
+```sh
 curl -X POST \
      -H "Content-Type: application/json" \
      --data '{ "query": "{allPhotos{name}}" }' \
      http://localhost:4000/graphql
  ```
- 
+
 * [Fetch Sample](https://codesandbox.io/s/wy9mq00q9w)
 * [graphql-request](https://codesandbox.io/s/4qzq5z2vz0)
 * [Lab Start](https://codesandbox.io/s/kmmz8om2xv)
@@ -73,7 +73,7 @@ curl -X POST \
 
 
 ### GitHub Auth
-```
+```js
 window.location = `https://github.com/login/oauth/authorize?client_id=${clientID}&scope=user`
 ```
 
