@@ -11,9 +11,9 @@ GraphQL Workshop Links and Resources
 * [SWAPI: Star Wars API](http://graphql.org/swapi-graphql/)
 
 ### Designing A Schema
-* [City to City Through Types - Launchpad](https://launchpad.graphql.com/lk3qk3zq7q)
-* [Union Types - Launchpad](https://launchpad.graphql.com/r94qxj5q4n)
-* [Interfaces - Launchpad](https://launchpad.graphql.com/j8r375km3p)
+* [City to City Through Types](https://codesandbox.io/s/5vzn2rkzxn)
+* [Union Types](https://codesandbox.io/s/rm2rx3opqm)
+* [Interfaces](https://codesandbox.io/s/71x8n304r1)
 * [SWAPI - Launchpad](http://bit.ly/swapi-launchpad)
 
 ### Building an API
