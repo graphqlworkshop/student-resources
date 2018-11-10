@@ -6,7 +6,7 @@ GraphQL Workshop Links and Resources
 ## Day 1
 
 ### Query Language
-* [Snowtooth Playground](http://snowtooth.herokuapp.com/playground)
+* [Snowtooth Playground](http://snowtooth.moonhighway.com)
 * [Github GraphQL Explorer](https://developer.github.com/v4/explorer/)
 * [SWAPI: Star Wars API](http://graphql.org/swapi-graphql/)
 
