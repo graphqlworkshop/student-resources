@@ -1,7 +1,7 @@
 GraphQL Workshop Links and Resources
 ==========
 
-* [Slides](https://docs.google.com/presentation/d/1PyIctm0YPtaBleDxNkNXTEBvHSK5WNjMwzJaif2nmL4/edit?usp=sharing)
+* [Slides](https://slides.com/moonhighway/graphql-summit)
 
 ## Day 1
 
