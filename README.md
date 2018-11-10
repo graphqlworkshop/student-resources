@@ -31,7 +31,7 @@ GraphQL Workshop Links and Resources
 #### .env file
 
 ```sh
-DB_HOST=mongodb://*** or `mongodb://******
+DB_HOST=mongodb://localhost:27017/photo-share
 CLIENT_ID=<GITHUB_CLIENT_ID>
 CLIENT_SECRET=<GITHUB_CLIENT_SECRET>
 ```
@@ -57,14 +57,6 @@ curl -X POST \
 * [Sending Client Queries](https://codesandbox.io/s/4xnkxmnw7w)
 * [writeQuery](https://codesandbox.io/s/oo3z008kzy)
 
-### Activity Endpoints
-| Example             | endpoint                               | test                                     |
-|---------------------|----------------------------------------|------------------------------------------|
-| City Sample         | https://lk3qk3zq7q.lp.gql.zone/graphql | https://launchpad.graphql.com/lk3qk3zq7q |
-| Study Group (union) | https://r94qxj5q4n.lp.gql.zone/graphql | https://launchpad.graphql.com/r94qxj5q4n |
-| Alex's Ski Days     | https://api.graph.cool/simple/v1/cja33bgdf6g8i0109u1k4913c | https://www.graphqlbin.com |
-
-
 ### Apollo Link Examples
 * [Observable Intro](https://codesandbox.io/s/176q4zpl4)
 * [Observable + Link](https://codesandbox.io/s/ql5xqkojyj)
@@ -78,7 +70,8 @@ window.location = `https://github.com/login/oauth/authorize?client_id=${clientID
 ```
 
 ### Evaluation
-* [Final Day Eval](https://docs.google.com/forms/d/e/1FAIpQLSf6Nv5lFAfiEDyUocUn7QnFdeyM7UbCvFx2jcpcM-Yz5sHiLA/viewform?usp=sf_link)
+* [Mid Class Evaluation](https://goo.gl/forms/RXFoGhHy5oHdX9Jq1)
+* [Final Day Eval](https://goo.gl/forms/26gsd2Komye4VGW63)
 
 
 ## GraphQL Articles & Documentation
@@ -100,8 +93,3 @@ window.location = `https://github.com/login/oauth/authorize?client_id=${clientID
 
 * [Apollo GraphQL](https://www.apollographql.com/)
 * [React Apollo](https://github.com/apollographql/react-apollo)
-
-### Relay
-
-* [Relay Modern](https://facebook.github.io/relay/)
-* [Relay Tutorial](https://facebook.github.io/relay/docs/tutorial.html)
