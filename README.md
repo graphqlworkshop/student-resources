@@ -28,6 +28,12 @@ GraphQL Workshop Links and Resources
 * Typical Mongo Service Route: `mongodb://localhost:27017/photo-share`
 * Typical mLab Service Route: `mongodb://test:password@ds215089.mlab.com:15089/photo-share` (yours will differ slightly, find on mLab)
 
+### mLAB .env file
+```
+DB_HOST=mongodb://test1:password1@ds159563.mlab.com:59563/photo-share-application-eve
+```
+
+
 #### .env file
 
 ```sh
