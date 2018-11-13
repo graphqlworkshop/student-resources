@@ -44,6 +44,9 @@ GITHUB_CLIENT_SECRET=<GITHUB_CLIENT_SECRET>
 
 ## Day 2
 
+### Snowtooth Lab
+* [Snowtooth API Lab - Start](http://www.github.com/graphqlworkshop/snowtooth-api)
+
 ### Client Examples
 * curl Request
 ```sh
