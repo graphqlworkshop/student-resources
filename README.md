@@ -52,7 +52,7 @@ GITHUB_CLIENT_SECRET=<GITHUB_CLIENT_SECRET>
 ```sh
 curl -X POST \
      -H "Content-Type: application/json" \
-     --data '{ "query": "{allPhotos{name}}" }' \
+     --data '{ "query": "{allLifts{name}}" }' \
      http://localhost:4000/graphql
  ```
 
