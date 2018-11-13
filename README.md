@@ -72,6 +72,9 @@ curl -X POST \
 * [HTTP Link](https://codesandbox.io/s/koj24j5l07)
 * [Concatenating Links](https://codesandbox.io/s/ql4jlz54yq)
 
+### Custom Scalars
+* [Custom Scalars - Pets](https://codesandbox.io/s/pw32jkj04j)
+* [Custom Scalars - Crypto](https://codesandbox.io/s/53o3pmy43n)
 
 ### Sample Clients
 
