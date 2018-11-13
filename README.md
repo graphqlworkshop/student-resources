@@ -75,12 +75,8 @@ curl -X POST \
 
 ### Sample Clients
 
-| Description               | GraphQL Endpoint                     | GraphiQL/Launchpad   | 
-|---------------------------|--------------------------------------|
-| SWAPI                     | `https://mpjk0plp9.lp.gql.zone/graphql` | `https://launchpad.graphql.com/mpjk0plp9` |
-| `npm run test:functional` | Runs cucumber tests                  |
-| `npm run dev:test`        | Runs Jest tests with a watch command |
-| `npm run dev:coverage`    | Runs test coverage report            |
+* SWAPI - Endpoint: `https://mpjk0plp9.lp.gql.zone/graphql` - [Launchpad](https://launchpad.graphql.com/mpjk0plp9)
+* Countries API - Endpoint: `https://countries.trevorblades.com/` - [Playground](https://countries.trevorblades.com/)
 
 ### GitHub Auth
 ```js
