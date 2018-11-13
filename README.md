@@ -73,6 +73,15 @@ curl -X POST \
 * [Concatenating Links](https://codesandbox.io/s/ql4jlz54yq)
 
 
+### Sample Clients
+
+| Description               | GraphQL Endpoint                     | GraphiQL/Launchpad   | 
+|---------------------------|--------------------------------------|
+| SWAPI                     | `https://mpjk0plp9.lp.gql.zone/graphql` | `https://launchpad.graphql.com/mpjk0plp9` |
+| `npm run test:functional` | Runs cucumber tests                  |
+| `npm run dev:test`        | Runs Jest tests with a watch command |
+| `npm run dev:coverage`    | Runs test coverage report            |
+
 ### GitHub Auth
 ```js
 window.location = `https://github.com/login/oauth/authorize?client_id=${clientID}&scope=user`
