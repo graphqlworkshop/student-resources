@@ -97,7 +97,7 @@ window.location = `https://github.com/login/oauth/authorize?client_id=${clientID
 
 * [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
 * [A Gentle Introduction to Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
-* [Euler's Solution to the Konigsberg Bridge Problem](www.maa.org/press/periodicals/convergence/leonard-eulers-solution-to-the-konigsberg-bridge-problem)
+* [Euler's Solution to the Konigsberg Bridge Problem](https://www.maa.org/press/periodicals/convergence/leonard-eulers-solution-to-the-konigsberg-bridge-problem)
 
 ### GraphQL
 
