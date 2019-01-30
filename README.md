@@ -86,6 +86,9 @@ curl -X POST \
 ```js
 window.location = `https://github.com/login/oauth/authorize?client_id=${clientID}&scope=user`;
 ```
+### Schema Stitching Example
+* [Lifts, Trails Orchestration](https://github.com/eveporcello/schema-stitching)
+
 
 ### Evaluation
 
