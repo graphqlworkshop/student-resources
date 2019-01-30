@@ -76,11 +76,6 @@ curl -X POST \
 - [Custom Scalars - Pets](https://codesandbox.io/s/pw32jkj04j)
 - [Custom Scalars - Crypto](https://codesandbox.io/s/53o3pmy43n)
 
-### Sample Clients
-
-- SWAPI - Endpoint: `https://mpjk0plp9.lp.gql.zone/graphql` - [Launchpad](https://launchpad.graphql.com/mpjk0plp9)
-- Countries API - Endpoint: `https://countries.trevorblades.com/` - [Playground](https://countries.trevorblades.com/)
-
 ### GitHub Auth
 
 ```js
