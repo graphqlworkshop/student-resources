@@ -17,6 +17,7 @@
 - [Interfaces](https://codesandbox.io/s/71x8n304r1)
 - [Event Interfaces](https://codesandbox.io/s/mm36pp93p9)
 - [SWAPI - Launchpad](http://bit.ly/swapi-launchpad)
+- [Modular Schema](https://github.com/eveporcello/schema-workshop/tree/master/06-extras/modularizing-a-schema/finished)
 
 ### Jump Ahead Paste Links
 
