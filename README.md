@@ -82,14 +82,9 @@ curl -X POST \
 ```js
 window.location = `https://github.com/login/oauth/authorize?client_id=${clientID}&scope=user`;
 ```
+
 ### Schema Stitching Example
 * [Lifts, Trails Orchestration](https://github.com/eveporcello/schema-stitching)
-
-
-### Evaluation
-
-- [Mid Class](https://docs.google.com/forms/d/e/1FAIpQLSe6Q9gZk9sgKnlhK82h-_Gztb2bS4_u0o4Y_TZn_cFHkNwkEQ/viewform?usp=sf_link)
-- [Final Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSfP6B2kDwfZi9muN6N9WyXZ-V4i7ItETJaVtYDHgbNHawYBtw/viewform?usp=sf_link)
 
 ## GraphQL Articles & Documentation
 
