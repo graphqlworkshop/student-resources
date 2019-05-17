@@ -93,6 +93,9 @@ curl -X POST \
 ### Schema Stitching Example
 * [Lifts, Trails Orchestration](https://github.com/eveporcello/schema-stitching)
 
+### Client Samples
+* [Pet Library Repo](https://github.com/moonhighway/pet-library)
+
 ## GraphQL Articles & Documentation
 
 ### Graph Theory
