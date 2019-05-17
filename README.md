@@ -77,11 +77,9 @@ curl -X POST \
 - [Custom Scalars - Pets](https://codesandbox.io/s/pw32jkj04j)
 - [Custom Scalars - Crypto](https://codesandbox.io/s/53o3pmy43n)
 
-### GitHub Auth
+### GraphQL Error Handling
+* [GraphQL Errors](https://www.apollographql.com/docs/react/features/error-handling)
 
-```js
-window.location = `https://github.com/login/oauth/authorize?client_id=${clientID}&scope=user`;
-```
 
 ### Schema Stitching Example
 * [Lifts, Trails Orchestration](https://github.com/eveporcello/schema-stitching)
