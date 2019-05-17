@@ -43,6 +43,14 @@ GITHUB_CLIENT_SECRET=<GITHUB_CLIENT_SECRET>
 
 ## Day 2
 
+### Unions & Interfaces
+- [Slides](https://slides.com/moonhighway/unions-interfaces)
+- [Union Types](https://codesandbox.io/s/rm2rx3opqm)
+- [Interfaces](https://codesandbox.io/s/71x8n304r1)
+- [Event Interfaces](https://codesandbox.io/s/mm36pp93p9)
+- [Union Search - Complete](https://github.com/graphqlworkshop/snowtooth-unions/tree/complete)
+- [Employee Interface - Complete](https://github.com/graphqlworkshop/interface-lab/tree/complete)
+
 ### Client Examples
 
 - curl Request
