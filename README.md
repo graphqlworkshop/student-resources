@@ -79,6 +79,7 @@ curl -X POST \
 
 ### GraphQL Error Handling
 * [GraphQL Errors](https://www.apollographql.com/docs/react/features/error-handling)
+* [Error Handling at Medium, Sasha Solomon](https://www.youtube.com/watch?v=GYBhHUGR1ZY)
 
 
 ### Schema Stitching Example
