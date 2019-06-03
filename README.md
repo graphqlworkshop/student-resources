@@ -4,31 +4,49 @@
 
 ### Query Language
 
+- [Query Language Slides](https://slides.com/moonhighway/graphql-intro/)
 - [Snowtooth Playground](https://snowtooth.moonhighway.com)
 - [Pet Library Playground](https://pet-library.moonhighway.com)
+- [Moon Highway Vote Playground](http://vote.moonhighway.com)
 - [Github GraphQL Explorer](https://developer.github.com/v4/explorer/)
 - [SWAPI: Star Wars API](http://graphql.org/swapi-graphql/)
+- [Lab Instructions](https://slides.com/moonhighway/snowtooth-query-lab/)
 
 ### Schema Design
 
+- [Schema Definition Language](https://slides.com/moonhighway/schema-definition-language/)
 - [City to City Through Types](https://codesandbox.io/s/5vzn2rkzxn)
 - [Union Types](https://codesandbox.io/s/rm2rx3opqm)
 - [Interfaces](https://codesandbox.io/s/71x8n304r1)
 - [Event Interfaces](https://codesandbox.io/s/mm36pp93p9)
 - [SWAPI - Launchpad](http://bit.ly/swapi-launchpad)
 - [Modular Schema](https://github.com/eveporcello/schema-workshop/tree/master/06-extras/modularizing-a-schema/finished)
+- [Lab Instructions](https://slides.com/moonhighway/schema-lab/)
+- [Possible Lab Solutions](https://github.com/graphqlworkshop/schema-activity)
+
+
+### Building a Server
+
+- [Exercise Start Files](https://github.com/graphqlworkshop/snowtooth-api)
+- [Lab Instructions](https://slides.com/moonhighway/server-lab/)
+- [Starting Schemas](https://github.com/graphqlworkshop/schema-activity)
+
 
 ## Day 2
 
 ### Unions & Interfaces
-- [Slides](https://slides.com/moonhighway/unions-interfaces)
+- [Unions & Interfaces Slides](https://slides.com/moonhighway/unions-interfaces)
+- [Refactored Pet Library](http://funded-pet-library.moonhighway.com/)
 - [Union Types](https://codesandbox.io/s/rm2rx3opqm)
 - [Interfaces](https://codesandbox.io/s/71x8n304r1)
 - [Event Interfaces](https://codesandbox.io/s/mm36pp93p9)
 - [Union Search - Complete](https://github.com/graphqlworkshop/snowtooth-unions/tree/complete)
 - [Employee Interface - Complete](https://github.com/graphqlworkshop/interface-lab/tree/complete)
 
+
 ### Apollo Client 
+
+#### Simple Requests
 
 - curl Request
 
@@ -39,52 +57,37 @@ curl -X POST \
      http://snowtooth.moonhighway.com
 ```
 
-- [Fetch Sample](https://codesandbox.io/s/wy9mq00q9w)
+- [Fetch Sample](https://codesandbox.io/s/n3jro0o4n0)
 - [graphql-request](https://codesandbox.io/s/4qzq5z2vz0)
-- [Lab Start](https://codesandbox.io/s/kmmz8om2xv)
-- [Lab Finished](https://codesandbox.io/s/q8l7wp6m0w)
 
-### Apollo Client Examples
+#### Apollo Link Examples
 
-- [Simple Apollo Setup](https://codesandbox.io/s/3q245om1q6)
-- [Sending Client Queries](https://codesandbox.io/s/4xnkxmnw7w)
-- [writeQuery](https://codesandbox.io/s/oo3z008kzy)
-
-### Apollo Link Examples
-
+- [Apollo Link Slides](https://slides.com/moonhighway/apollo-links)
 - [Observable Intro](https://codesandbox.io/s/176q4zpl4)
 - [Observable + Link](https://codesandbox.io/s/ql5xqkojyj)
 - [HTTP Link](https://codesandbox.io/s/koj24j5l07)
 - [Concatenating Links](https://codesandbox.io/s/ql4jlz54yq)
+- [Terminating Link: Start](https://codesandbox.io/s/objective-dawn-36rzq)
+- [Terminating Link: Finish](https://codesandbox.io/s/mutable-smoke-qkvgc)
 
-### Custom Scalars
+### Apollo & React
+
+- [React Overview](https://slides.com/moonhighway/react-overview)
+- [Snowtooth UI Start Files](https://github.com/graphqlworkshop/snowtooth-ui)
+- [Lab](https://slides.com/moonhighway/client-lab/)
+
+### Extras
+
+#### Apollo Federation
+
+- [Federation Sample](https://github.com/graphqlworkshop/snowtooth-federation-lab/tree/complete)
+
+#### Custom Scalars
 
 - [Custom Scalars - Pets](https://codesandbox.io/s/pw32jkj04j)
 - [Custom Scalars - Crypto](https://codesandbox.io/s/53o3pmy43n)
 
-### GraphQL Error Handling
+#### GraphQL Error Handling
 * [GraphQL Errors](https://www.apollographql.com/docs/react/features/error-handling)
 * [Error Handling at Medium, Sasha Solomon](https://www.youtube.com/watch?v=GYBhHUGR1ZY)
 
-### Client Samples
-* [Pet Library Repo](https://github.com/moonhighway/pet-library)
-
-## GraphQL Articles & Documentation
-
-### Graph Theory
-
-- [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
-- [A Gentle Introduction to Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
-- [Euler's Solution to the Konigsberg Bridge Problem](https://www.maa.org/press/periodicals/convergence/leonard-eulers-solution-to-the-konigsberg-bridge-problem)
-
-### GraphQL
-
-- [GraphQL Docs](http://graphql.org/)
-- [How To GraphQL](https://www.howtographql.com/)
-- [Schema Language Cheat Sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
-- [Apollo Schema Design Guide](https://www.apollographql.com/docs/guides/schema-design.html)
-
-### Apollo
-
-- [Apollo GraphQL](https://www.apollographql.com/)
-- [React Apollo](https://github.com/apollographql/react-apollo)
