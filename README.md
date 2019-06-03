@@ -1,16 +1,15 @@
 # GraphQL Workshop Links and Resources
 
-- [Slides](https://slides.com/moonhighway/graphql-workshop)
-
 ## Day 1
 
 ### Query Language
 
-- [Snowtooth Playground](http://snowtooth.moonhighway.com)
+- [Snowtooth Playground](https://snowtooth.moonhighway.com)
+- [Pet Library Playground](https://pet-library.moonhighway.com)
 - [Github GraphQL Explorer](https://developer.github.com/v4/explorer/)
 - [SWAPI: Star Wars API](http://graphql.org/swapi-graphql/)
 
-### Designing A Schema
+### Schema Design
 
 - [City to City Through Types](https://codesandbox.io/s/5vzn2rkzxn)
 - [Union Types](https://codesandbox.io/s/rm2rx3opqm)
@@ -18,28 +17,6 @@
 - [Event Interfaces](https://codesandbox.io/s/mm36pp93p9)
 - [SWAPI - Launchpad](http://bit.ly/swapi-launchpad)
 - [Modular Schema](https://github.com/eveporcello/schema-workshop/tree/master/06-extras/modularizing-a-schema/finished)
-
-### Jump Ahead Paste Links
-
-- [DB Functions](https://gist.github.com/eveporcello/c0d04b145fcc6b5fc9caa1ce2a140148)
-- [File Upload](https://gist.github.com/eveporcello/12c0f5070fd1c0bc3d9f02906f7743a8)
-
-### Database Integration
-
-- [Local Instructions for Mongo & mLab](https://gist.github.com/eveporcello/98f9e37a65f05b9d0866137d80ed9653)
-- [Mongo Installation for Mac](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
-- [Mongo Installation for PC](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
-- [mLab](https://mlab.com/)
-- Typical Mongo Service Route: `mongodb://localhost:27017/photo-share`
-- Typical mLab Service Route: `mongodb://test:password@ds215089.mlab.com:15089/photo-share` (yours will differ slightly, find on mLab)
-
-#### .env file
-
-```sh
-DB_HOST=mongodb://localhost:27017/photo-share
-GITHUB_CLIENT_ID=<GITHUB_CLIENT_ID>
-GITHUB_CLIENT_SECRET=<GITHUB_CLIENT_SECRET>
-```
 
 ## Day 2
 
@@ -51,7 +28,7 @@ GITHUB_CLIENT_SECRET=<GITHUB_CLIENT_SECRET>
 - [Union Search - Complete](https://github.com/graphqlworkshop/snowtooth-unions/tree/complete)
 - [Employee Interface - Complete](https://github.com/graphqlworkshop/interface-lab/tree/complete)
 
-### Client Examples
+### Apollo Client 
 
 - curl Request
 
@@ -88,10 +65,6 @@ curl -X POST \
 ### GraphQL Error Handling
 * [GraphQL Errors](https://www.apollographql.com/docs/react/features/error-handling)
 * [Error Handling at Medium, Sasha Solomon](https://www.youtube.com/watch?v=GYBhHUGR1ZY)
-
-
-### Schema Stitching Example
-* [Lifts, Trails Orchestration](https://github.com/eveporcello/schema-stitching)
 
 ### Client Samples
 * [Pet Library Repo](https://github.com/moonhighway/pet-library)
