@@ -29,6 +29,7 @@
 
 - [Exercise Start Files](https://github.com/graphqlworkshop/snowtooth-api)
 - [Lab Instructions](https://slides.com/moonhighway/server-lab/)
+- [Sample Data](https://bit.ly/2VF5zJU)
 - [Starting Schemas](https://github.com/graphqlworkshop/schema-activity)
 - [Simple Strava Sample](https://github.com/eveporcello/simple-strava-sample/blob/master/index.js)
 
