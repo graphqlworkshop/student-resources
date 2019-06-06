@@ -82,7 +82,8 @@ curl -X POST \
 
 #### Apollo Federation
 
-- [Federation Sample](https://github.com/graphqlworkshop/snowtooth-federation-lab/tree/complete)
+- [Federation Sample -- Start](https://github.com/graphqlworkshop/snowtooth-federation-lab)
+- [Federation Sample -- Complete](https://github.com/graphqlworkshop/snowtooth-federation-lab/tree/complete)
 
 #### Custom Scalars
 
