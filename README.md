@@ -33,6 +33,9 @@
 - [Starting Schemas](https://github.com/graphqlworkshop/schema-activity)
 - [Simple Strava Sample](https://github.com/eveporcello/simple-strava-sample/blob/master/index.js)
 
+### Midclass Evaluation
+
+- [Anonymous Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSf4LDSnkxJUC1gxJH2p9U4UnKrp3T9O9y3ASMHHnJLsYfJGcA/viewform?usp=sf_link)
 
 ## Day 2
 
