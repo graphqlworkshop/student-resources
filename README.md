@@ -1,10 +1,5 @@
 # GraphQL Workshop Links and Resources
 
-- [Final Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSehmuzPTRgFTR4ZRvVvtLX9s30SaLy2aT6oNXMSqI9Ow5Obhg/viewform?usp=sf_link)
-- [egghead Query Language](https://egghead.io/courses/graphql-query-language)
-- [egghead Schema Federation](https://egghead.io/lessons/apollo-wtf-is-apollo-federation)
-
-
 ## Day 1
 
 ### Query Language
