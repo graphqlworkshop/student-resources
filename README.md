@@ -1,7 +1,5 @@
 # GraphQL Workshop Links and Resources
 
-## Day 1
-
 ### Query Language
 
 - [Query Language Slides](https://slides.com/moonhighway/graphql-intro/)
@@ -36,8 +34,6 @@
 ### Midclass Evaluation
 
 - [Anonymous Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSf4LDSnkxJUC1gxJH2p9U4UnKrp3T9O9y3ASMHHnJLsYfJGcA/viewform?usp=sf_link)
-
-## Day 2
 
 ### Unions & Interfaces
 - [Unions & Interfaces Slides](https://slides.com/moonhighway/unions-interfaces)
